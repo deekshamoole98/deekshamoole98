@@ -1,5 +1,5 @@
 # Deeksha Moole
-**Dallas, TX** · m.deekshareddy1208@gmail.com · [linkedin.com/in/deekshamoole](https://linkedin.com/in/deekshamoole)
+**Dallas, TX** · [linkedin.com/in/deekshamoole](https://linkedin.com/in/deekshamoole)
 
 Data & BI engineer with four years building analytics infrastructure — ETL pipelines, cloud data warehouses, and dashboards that turn raw operational data into decisions. 
 
